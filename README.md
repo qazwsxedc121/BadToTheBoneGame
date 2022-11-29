@@ -6,6 +6,6 @@ A simple action game
 Avoid steel balls and reach the end.
 Created for Gameoff 2022
 
-Download and play:
+Download and play (windows only):
 
 https://qazwsxedc121.itch.io/badtothebone
